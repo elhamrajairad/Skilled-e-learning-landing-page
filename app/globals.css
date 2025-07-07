@@ -19,7 +19,6 @@
 
   --breakpoint-xs: 32px;
 }
-
 .bg-primary-gradient {
   background: linear-gradient(180deg, #ff6f48 0.04%, #f02aa6 100%);
 }

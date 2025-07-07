@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './components/Header'
 import Hero from './components/Hero'
+import Courses from './components/cours/Courses'
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Header />
       <main className='flex flex-col gap-8 '>
         <Hero />
+        <Courses />
       </main>
     </section>
   )
