@@ -16,6 +16,8 @@
     #4851ff 0%,
     #f02aa6 99.92%
   );
+
+  --breakpoint-xs: 32px;
 }
 
 .bg-primary-gradient {
