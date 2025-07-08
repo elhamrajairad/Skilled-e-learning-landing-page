@@ -9,8 +9,8 @@ export default function Button({ variant = "simple", size = "sm" }: IButtonProps
     const generalStyle = "rounded-full capitalize font-bold cursor-pointer"
     const variantStyle = {
         simple: "text-main-orange bg-white",
-        primaryGradient: "bg-primary-gradient text-white hover:opacity-2",
-        secondGradient: "bg-secondary-gradient text-white hover:opacity-2",
+        primaryGradient: "bg-primary-gradient text-white",
+        secondGradient: "bg-secondary-gradient text-white",
         colored: "bg-blue text-white hover:bg-blue-hover"
     }
     const variantSize = {

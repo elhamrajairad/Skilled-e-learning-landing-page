@@ -25,3 +25,10 @@
 .bg-secondary-gradient {
   background: linear-gradient(180deg, #4851ff 0%, #f02aa6 99.92%);
 }
+.bg-primary-gradient:hover {
+  background: linear-gradient(180deg, #f02aa6 0.04%, #ff6f48 100%);
+}
+
+.bg-secondary-gradient:hover {
+  background: linear-gradient(180deg, #f02aa6 0%, #4851ff 99.92%);
+}
