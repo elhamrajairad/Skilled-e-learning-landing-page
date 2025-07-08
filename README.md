@@ -29,8 +29,7 @@ npm install
 npm run dev
 
 📸 Preview
-
-(https://github.com/elhamrajairad/Skilled-e-learning-landing-page/blob/main/public/screencapture.png)
+<img src="https://github.com/elhamrajairad/Skilled-e-learning-landing-page/blob/main/public/screencapture.png">
 
 
 📚 What I learned
