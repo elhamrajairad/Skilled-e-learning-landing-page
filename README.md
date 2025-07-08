@@ -26,11 +26,11 @@ Clone the project and run locally:
 git clone (https://github.com/elhamrajairad/Skilled-e-learning-landing-page.git)
 cd skilled-e-learning
 npm install
-npm run dev```
+npm run dev
+```bash
 
 📸 Preview
-<img src="https://github.com/elhamrajairad/Skilled-e-learning-landing-page/blob/main/public/screencapture.png">
-
+(./screencapture.png)
 
 📚 What I learned
 
