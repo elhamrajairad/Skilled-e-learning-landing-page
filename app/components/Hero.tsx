@@ -14,7 +14,7 @@ export default function Hero() {
             </section>
             <section className="col-span-1">
                 <Image src={heroMobile} alt="" className="sm:hidden" />
-                <Image src={heroTablet} alt="" className="max-w-[25rem] -bottom-0 xs:hidden sm:absolute sm:block lg:hidden sm:-bottom-8" />
+                <Image src={heroTablet} alt="" className="max-w-[25rem] relative -top-36 lg:hidden" />
                 <Image src={heroDesktop} alt="" className="hidden lg:block absolute max-w-[50rem] -top-30" />
             </section>
         </section>
