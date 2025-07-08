@@ -19,9 +19,11 @@ export default function RootLayout({
       </head>
       <body className="lg:relative bg-[#F7F7FF]">
         {children}
-        <footer className="bg-blue flex justify-between items-center py-8">
-          <Image src={logoDark} alt="" />
-          <Button variant="secondGradient" />
+        <footer className="bg-blue py-6">
+          <section className="container max-w-[1100px] mx-auto px-6 sm:px-15 xl:px-0 flex justify-between items-center">
+            <Image src={logoDark} alt="" />
+            <Button variant="secondGradient" />
+          </section>
         </footer>
       </body>
     </html>
