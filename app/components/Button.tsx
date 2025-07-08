@@ -1,4 +1,3 @@
-import React from "react"
 
 interface IButtonProps extends React.ComponentProps<"button"> {
     variant?: "simple" | "primaryGradient" | "secondGradient" | "colored",
@@ -18,7 +17,8 @@ export default function Button({ variant = "simple", size = "sm" }: IButtonProps
         lg: "px-8 py-4"
     }
     return (
-        <button className={`${generalStyle} ${variantStyle[variant]} ${variantSize[size]} `}>
+        <button
+            className={`${generalStyle} ${variantStyle[variant]} ${variantSize[size]} `}>
             get started
         </button>
     )
