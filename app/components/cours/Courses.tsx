@@ -31,7 +31,7 @@ export default function Courses() {
         }
     ];
     return (
-        <div className='grid grid-cols-3 relative my-25 gap-3'>
+        <div className='grid xs:grid-cols-1 md:grid-cols-2  lg:grid-cols-3 relative my-25 gap-3 '>
             <section className='bg-primary-gradient relative rounded-2xl p-8 mb-18 '>
                 <h2 className='relative mt-10 font-bold text-3xl text-white'>Check out our most popular courses!</h2>
             </section>
