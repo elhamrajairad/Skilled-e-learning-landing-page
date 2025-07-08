@@ -22,19 +22,19 @@ This landing page includes:
 
 Clone the project and run locally:
 
-git clone (https://github.com/elhamrajairad/Skilled-e-learning-landing-page.git)
-cd skilled-e-learning
+```bash
+git clone https://github.com/elhamrajairad/Skilled-e-learning-landing-page.git
+cd skilled-e-learning-landing-page
 npm install
 npm run dev
+```
 
+## 📷 preview
 
-📸 Preview
-![](./screencapture.png)
+(./screencapture.png)
 
-📚 What I learned
-
+📚 What I Learned
 This project was a refresh of layout building and integrating animation in a simple landing page.
 
 ✅ Status
-
 Finished – but open to improvements and UI polish in the future.
