@@ -1,1 +1,34 @@
 @import "tailwindcss";
+@theme {
+  --color-blue-hover: #666ca3;
+  --color-blue: #13183f;
+  --color-text-gray: #83869a;
+  --color-main-orange: #f74780;
+  --color-main-pink: #ffa7c3;
+  --color-white: #ffffff;
+  --color-primary-gradient: linear-gradient(
+    180deg,
+    #ff6f48 0.04%,
+    #f02aa6 100%
+  );
+  --color-secondary-gradient: linear-gradient(
+    180deg,
+    #4851ff 0%,
+    #f02aa6 99.92%
+  );
+
+  --breakpoint-xs: 32px;
+}
+.bg-primary-gradient {
+  background: linear-gradient(180deg, #ff6f48 0.04%, #f02aa6 100%);
+}
+.bg-secondary-gradient {
+  background: linear-gradient(180deg, #4851ff 0%, #f02aa6 99.92%);
+}
+.bg-primary-gradient:hover {
+  background: linear-gradient(180deg, #f02aa6 0.04%, #ff6f48 100%);
+}
+
+.bg-secondary-gradient:hover {
+  background: linear-gradient(180deg, #f02aa6 0%, #4851ff 99.92%);
+}
