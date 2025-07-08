@@ -4,6 +4,9 @@ import heroMobile from "@/public/image-hero-mobile.png"
 import heroTablet from "@/public/image-hero-tablet.png"
 import heroDesktop from "@/public/image-hero-desktop.png"
 
+
+
+
 export default function Hero() {
     return (
         <section className="sm:grid grid-cols-3 lg:grid-cols-2 lg:mt-20">
