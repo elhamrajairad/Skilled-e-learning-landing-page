@@ -22,15 +22,14 @@ This landing page includes:
 
 Clone the project and run locally:
 
-```bash
 git clone (https://github.com/elhamrajairad/Skilled-e-learning-landing-page.git)
 cd skilled-e-learning
 npm install
 npm run dev
-```bash
+
 
 📸 Preview
-(./screencapture.png)
+![](./screencapture.png)
 
 📚 What I learned
 
