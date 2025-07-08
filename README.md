@@ -30,8 +30,7 @@ npm run dev
 
 📸 Preview
 
-![توضیح تصویر](https://github.com/elhamrajairad/Skilled-e-learning-landing-page/raw/main/path/to/image.png)
-
+(https://github.com/elhamrajairad/Skilled-e-learning-landing-page/blob/main/public/screencapture.png)
 
 
 📚 What I learned
