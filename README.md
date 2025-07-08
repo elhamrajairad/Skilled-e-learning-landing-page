@@ -30,7 +30,7 @@ npm run dev
 
 📸 Preview
 
-> Add screenshots or a demo link if available.
+(./public/screencapture.png)
 
 
 
