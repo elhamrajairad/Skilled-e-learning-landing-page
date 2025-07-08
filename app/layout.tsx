@@ -3,10 +3,14 @@ import "./globals.css";
 import { Plus_Jakarta_Sans } from "next/font/google"
 import logoDark from "@/public/logo-light.svg"
 import Button from "./components/Button";
+import { Metadata } from "next";
 
 export const jakartaSans = Plus_Jakarta_Sans({
   subsets: ["latin"]
 })
+export const metadata: Metadata = {
+  title: "Skilled e-learning | Front-mentor"
+}
 export default function RootLayout({
   children,
 }: Readonly<{
