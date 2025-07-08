@@ -13,7 +13,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${jakartaSans.className} `}>
+    <html lang="en" className={`${jakartaSans.className}`}>
       <head>
         <link rel="icon" href="/favicon.png" />
       </head>
