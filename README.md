@@ -31,7 +31,7 @@ npm run dev
 
 ## 📷 preview
 
-![](./public/screencapture.png)
+![](https://github.com/elhamrajairad/Skilled-e-learning-landing-page/blob/main/public/screencapture.png)
 
 📚 What I Learned
 This project was a refresh of layout building and integrating animation in a simple landing page.
